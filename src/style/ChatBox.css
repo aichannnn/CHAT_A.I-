@@ -1,0 +1,49 @@
+.chatbox {
+      background: #fff;
+      border-radius: 50px;
+      padding: 2px;
+      display: flex;
+      align-items: center;
+      margin-left: -3em;
+      justify-content: space-between;
+      width: 37em;
+      box-shadow: rgba(156, 156, 156, 0.284) 0px 5px 23px;
+    }
+.input-field {
+  flex-grow: 1;
+  border: none;
+  background: transparent;
+  padding: 5px 10px;
+  font-size: 12px;
+  outline: none;
+
+}
+.input-field::placeholder{
+  color: #a3a3a3;
+}
+.send-button {
+  background: #5555fe;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin:5px;
+}
+.send-icon{
+  color: #fff;
+}
+
+.brain-icon {
+  margin-right: 10px;
+  position: relative;
+}
+.brain-icon::after {
+  content: "🧠";
+  font-size: 20px;
+  color: #FF69B4;
+  padding-left: 10px;
+  text-shadow: 0 5px 8px rgba(254, 89, 194, 0.74);
+}
