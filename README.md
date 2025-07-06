@@ -25,6 +25,13 @@ A modern AI-powered chatbot interface that allows users to interact with AI in a
 
 ---
 
+## Images
+<img width="275" alt="a4" src="https://github.com/user-attachments/assets/1b846f4a-a9e7-4e18-87ad-3b0fec141c88" />
+<img width="959" alt="a3" src="https://github.com/user-attachments/assets/c9bcde67-0fe1-45ab-8559-3329de147bb1" />
+<img width="959" alt="a2" src="https://github.com/user-attachments/assets/13410f12-fbdf-44bb-ba3d-030ddde4cbe4" />
+<img width="959" alt="a1" src="https://github.com/user-attachments/assets/1f39e6b9-99cb-4741-98b4-a8ca4cb41172" />
+
+
 ## 🛠️ Installation & Setup
 
 ### Step 1: Clone the repository
